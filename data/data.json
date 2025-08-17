@@ -1,0 +1,26 @@
+[
+    {
+        "image_id": 1,
+        "room_type": "king_room",
+        "image_url": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimage.made-in-china.com%2F2f0j00qHBYDZOahuol%2FHotel-Bedroom-Luxury-Kingsize-Bedroom-Standard-Hotel-Kingsize-Bedroom-Suite.jpg&f=1&nofb=1&ipt=25b0bf46c807ea7593f627d562670de3f9ef05e9078f8ecdd94fe2ac9fcc8c02",
+        "status": true
+    },
+    {
+        "image_id": 2,
+        "room_type": "king_room",
+        "image_url": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn6.dissolve.com%2Fp%2FD943_111_608%2FD943_111_608_1200.jpg&f=1&nofb=1&ipt=24713b00f8f62b9c1a7373d164722da557ae28915e28ee04e4ce1769dc031f6c",
+        "status": false
+    },
+    {
+        "image_id": 3,
+        "room_type": "king_room",
+        "image_url": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fdq5r178u4t83b.cloudfront.net%2Fwp-content%2Fuploads%2Fsites%2F86%2F2018%2F07%2F20082425%2FSVY-442-Luxury-King-Art-Deco.jpg&f=1&nofb=1&ipt=09d73b05447a6ceffcf104d3bc023f302390ae4b5cbc98968b414ee843847c49",
+        "status": false
+    },
+    {
+        "image_id": 4,
+        "room_type": "king_room",
+        "image_url": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthejohnstownestate.com%2Fwp-content%2Fuploads%2F2020%2F10%2FOne-Bedroom-suite-bedroom-_1200X800.jpg&f=1&nofb=1&ipt=1c1e76a423a3cd72e70897074416f4691d42b41c7937adc7f16f939ae722e352",
+        "status": false
+    }
+]
